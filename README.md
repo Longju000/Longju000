@@ -8,7 +8,7 @@ LEARNING AND BUILDING
 <a href="https://www.linkedin.com/in/thongpanglongju/">
   <img align="left" alt="Longju's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/in/longju000/">
+<a href="https://www.instagram.com/longju000/">
   <img align="left" alt="Longju's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>                                
                                 
