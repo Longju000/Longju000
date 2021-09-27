@@ -2,12 +2,16 @@ LEARNING AND BUILDING
 
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/headless_sloth">
-  <img align="left" alt="Headless_Sloth | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/_longju_">
+  <img align="left" alt="_longju_" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thongpanglongju/">
   <img align="left" alt="Longju's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/in/longju000/">
+  <img align="left" alt="Longju's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>                                
+                                
 
 <br />
 
