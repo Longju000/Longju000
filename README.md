@@ -15,10 +15,9 @@ LEARNING AND BUILDING
 
 Hi, I'm Longju, Learning by Building and contributing...😎❤
        
-      - I love everything about Block-chain technology. And I'm currently learning more about this topics.
+      - In love with the use of Block-chain technology. And I'm currently learning more about this topics.
                                                             
-
-I am also an open-source enthusiast and a contributor.I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Learning a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 💬 ask me about anything, i am happy to help;
 
